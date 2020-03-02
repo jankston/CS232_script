@@ -1,0 +1,60 @@
+﻿Describe a particular struggle that you overcame when working on this programming assignment.
+
+
+This was really all about matplotlib and datetime. I’ve used datetime for minor things prior to this, but matplotlib seems to be a huge and powerful library with multiple ways to do everything so I really struggled initially with figuring out how to accomplish what I set out to do. I love graphing and visualization of data so I look forward to using it more.
+
+
+Conversely, describe an issue with your assignment that you were unable to resolve.
+
+
+I was unable to resolve the live graphing portion of my project. I need to host the script on a web app to refresh the page or create a GUI with refresh capabilities, otherwise the live graphing won’t work. I still intend to do this when I have the time but as of now, the script only requests info for the given stocks once a minute.
+
+
+// update 2/29 // 
+
+
+I changed my project from the live graphing of top movers on a given day. I did this because I was not able to finish it in time and frankly was in over my head. I could have turned it in as an incomplete assignment but that didn’t feel right to me so I changed the scope a bit. I have since removed the live component and changed it to a straightforward GUI that allows the user to input the symbol of any security as well as the interval for the data (1min, 5min, 15min, 30min). It then plots the data for the past 100 data points of the given interval. This can be altered in the code by changing the outputsize parameter from ‘compact’ to ‘full’.
+
+
+Provide advice to a future student on how he or she might succeed on this assignment.
+
+
+Make something useful and fun. Scripting is powerful and relatively easy. Depending on what sort of digital routines you have, it can save a lot of time and make data or new info much more accessible and organized.
+
+
+Describe the most fun aspect of the assignment.
+Having liberty over what we are doing. It’s nice to have control over the topic and purpose but it also makes it that much more annoying when it doesn’t work.
+
+
+
+
+
+
+Describe the most challenging aspect of the assignment.
+
+
+It seems that large portions and methods of matplotlib are deprecated and there were multiple instances of having to find workarounds to get exactly what I wanted instead of simply using the deprecated function that would have solved the problem more efficiently.
+
+
+// update 2/29 // 
+
+
+I had to jump ship on the first idea so I guess the most challenging aspect was what I set out to do.
+
+
+Describe the most difficult aspect of the assignment to understand.
+
+
+Nothing was too difficult to understand.
+
+
+// update 2/29 //
+
+
+Matplotlib was too confusing but I want to use it until I understand it.
+
+
+Provide any suggestions for improving the assignment in the future.
+
+
+This one was good. I did have trouble accomplishing what I wanted in a week but that’s likely due to a busy schedule and ambitious project for my skill level.
